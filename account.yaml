@@ -13,3 +13,4 @@ data:
   accounts.david: login
   # disables user. User is enabled by default
   accounts.david.enabled: "true"
+  role: admin
